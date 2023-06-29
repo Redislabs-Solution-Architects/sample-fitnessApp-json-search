@@ -1,7 +1,7 @@
 ---
 connection_details:
-  redis_host_name: redis-12001.sumit-cluster1.demo.redislabs.com
-  redis_port: 12001
+  redis_host_name: 127.0.0.1
+  redis_port: 6379
   redis_password: demo
 json_details:
-  number_of_documents: 11 
+  number_of_documents: 100
